@@ -1,6 +1,6 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/101390725/190355324-a0e8b36a-6c23-46df-93b2-aa01c7dddd24.gif" width = 250px></picture>
 
 <br>
 
