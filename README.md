@@ -4,7 +4,7 @@
 
 <br>
 
-- A cibersecurity analyst.
+- A pasionate cibersecurity analyst.
 - Degree in University Technical Informatics.
 - Systems Engineering student.
 - Read my [my blog!](https://medium.com/@ezequiel.palacio365)
