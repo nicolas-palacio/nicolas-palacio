@@ -4,10 +4,10 @@
 
 <br>
 
-- A passionate Back-end Java developer.
+- A cibersecurity analyst.
 - Degree in University Technical Informatics.
 - Systems Engineering student.
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1iYXiN34I6ZwFZ7Co36DJhzvoFvGLQCnN/view?usp=sharing)
+- Read my [my blog!](https://medium.com/@ezequiel.palacio365)
 
 <br><br>
 
