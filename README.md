@@ -4,7 +4,7 @@
 
 <br>
 
-- A pasionate cibersecurity analyst.
+- A pasionate backend developer.
 - Degree in University Technical Informatics.
 - Systems Engineering student.
 - Read my [my blog!](https://medium.com/@ezequiel.palacio365)
