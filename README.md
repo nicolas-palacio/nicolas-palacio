@@ -7,7 +7,7 @@
 - A pasionate backend developer.
 - Degree in University Technical Informatics.
 - Systems Engineering student.
-- Read my [my blog!](https://medium.com/@ezequiel.palacio365)
+- Read my [my blog!](https://medium.com/@ezequiel.palacio)
 
 <br><br>
 
